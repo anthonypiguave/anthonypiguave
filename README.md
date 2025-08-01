@@ -8,7 +8,7 @@
 </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" style="display: inline-flex; gap: 50px; align-items: center;">
+<p align="left" style="display: inline-flex; gap: 150px; align-items: center;">
   <a href="https://linkedin.com/in/anthonypiguave" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
   </a>
