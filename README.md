@@ -1,4 +1,6 @@
-## Hi there 👋
+# ¡Hola! Soy Anthony 👋
+
+Soy un desarrollador apasionado por la tecnología, la automatización y la creación de soluciones eficientes con Odoo, Python y tecnologías web. Siempre buscando aprender y mejorar.
 
 <h3 align="left">Odoo</h3>
 <p align="left">
