@@ -8,11 +8,11 @@ Tengo experiencia trabajando con varias versiones de Odoo, adaptando soluciones 
 
 | Versión de Odoo |
 |-----------------|
-| Odoo 12         | 
-| Odoo 13         |
-| Odoo 15         | 
-| Odoo 17         | 
-| Odoo 18         | 
+| ![🔻](https://upload.wikimedia.org/wikipedia/commons/0/0e/BSicon_lDST_fuchsia.svg) Odoo 12  | 
+| ![🔻](https://upload.wikimedia.org/wikipedia/commons/0/0e/BSicon_lDST_fuchsia.svg) Odoo 13  |
+| ![🔻](https://upload.wikimedia.org/wikipedia/commons/0/0e/BSicon_lDST_fuchsia.svg) Odoo 15  | 
+| ![🔻](https://upload.wikimedia.org/wikipedia/commons/0/0e/BSicon_lDST_fuchsia.svg) Odoo 17  | 
+| ![🔻](https://upload.wikimedia.org/wikipedia/commons/0/0e/BSicon_lDST_fuchsia.svg) Odoo 18  | 
 
 
 <h3 align="left">Connect with me:</h3>
