@@ -16,7 +16,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a> 
   <a href="https://www.odoo.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/odoo/odoo-icon.svg" alt="odoo" width="40" height="40"/> 
+    <img src="https://www.iconfinder.com/icons/1012815/code_development_logo_odoo_icon" alt="odoo" width="40" height="40"/> 
   </a> 
   <a href="https://github.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
