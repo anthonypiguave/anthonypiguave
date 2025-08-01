@@ -2,12 +2,18 @@
 
 Soy un desarrollador apasionado por la tecnología, la automatización y la creación de soluciones eficientes con Odoo, Python y tecnologías web. Siempre buscando aprender y mejorar.
 
-<h3 align="left">Odoo</h3>
-<p align="left">
-<a href="https://www.github.com" target="blank"><img align="center" src="https://odoocdn.com/openerp_website/static/src/img/2016/partners/ODOO12CERT.png" width="120" alt="anthonypiguave"/></a>
-  <a href="https://www.github.com" target="blank"><img align="center" src="https://odoocdn.com/openerp_website/static/src/img/2016/partners/ODOO15CERT.png" width="120" alt="anthonypiguave"/></a>
-  <a href="https://www.github.com" target="blank"><img align="center" src="https://odoocdn.com/openerp_website/static/src/img/2016/partners/ODOO18CERT.png" width="120" alt="anthonypiguave"/></a>
-</p>
+<h3 align="left">Experiencia con Odoo</h3>
+
+Tengo experiencia trabajando con varias versiones de Odoo, adaptando soluciones a distintos contextos empresariales:
+
+| Versión de Odoo |
+|-----------------|
+| Odoo 12         | 
+| Odoo 13         |
+| Odoo 15         | 
+| Odoo 17         | 
+| Odoo 18         | 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display: inline-flex; gap: 150px; align-items: center;">
