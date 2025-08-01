@@ -1,53 +1,16 @@
-# 👋 ¡Hola! Soy Anthony
+# ¡Hola! Soy Anthony 👋
 
-Soy un desarrollador apasionado por la tecnología, la automatización y la creación de soluciones eficientes con Odoo, Python y tecnologías web. Siempre estoy buscando mejorar, aprender cosas nuevas y compartir conocimiento.
+Soy un desarrollador apasionado por la tecnología, la automatización y la creación de soluciones eficientes con Odoo, Python y tecnologías web. Siempre buscando aprender y mejorar.
 
----
+<h3 align="left">Odoo</h3>
+<p align="left">
+<a href="https://www.github.com" target="blank"><img align="center" src="https://odoocdn.com/openerp_website/static/src/img/2016/partners/ODOO12CERT.png" width="120" alt="anthonypiguave"/></a>
+  <a href="https://www.github.com" target="blank"><img align="center" src="https://odoocdn.com/openerp_website/static/src/img/2016/partners/ODOO15CERT.png" width="120" alt="anthonypiguave"/></a>
+  <a href="https://www.github.com" target="blank"><img align="center" src="https://odoocdn.com/openerp_website/static/src/img/2016/partners/ODOO18CERT.png" width="120" alt="anthonypiguave"/></a>
+</p>
 
-## 🛠 Tecnologías y herramientas
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
----
-
-## 🚀 Proyectos Destacados
-
-- 🔄 **[POS + Facturación Electrónica en Odoo](https://github.com/)**  
-  Módulo personalizado para ventas y emisión de comprobantes electrónicos en Ecuador.
-
-- 📦 **[API REST con FastAPI para Odoo](https://github.com/)**  
-  Middleware para exponer endpoints seguros y rápidos para apps móviles y web.
-
-- 🧾 **[Reportes Financieros en XLSX y PDF](https://github.com/)**  
-  Automatización de reportes de ventas, cierres POS y estados de cuenta en Odoo.
-
----
-
-## 📊 GitHub Stats
-
-![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonypiguave&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonypiguave&layout=compact&theme=radical)
-
----
-
-## 🔭 Actualmente...
-
-- 🚧 Trabajando en un módulo de firma digital para Odoo 17
-- 📚 Aprendiendo sobre DevOps, n8n y flujos automáticos con Docker
-- 🤝 Disponible para colaboraciones y proyectos freelance
-
----
-
-## 📬 Contáctame
-
-<p align="left" style="display: inline-flex; gap: 20px; align-items: center;">
+<h3 align="left">Connect with me:</h3>
+<p align="left" style="display: inline-flex; gap: 150px; align-items: center;">
   <a href="https://linkedin.com/in/anthonypiguave" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
   </a>
@@ -56,9 +19,33 @@ Soy un desarrollador apasionado por la tecnología, la automatización y la crea
   </a>
 </p>
 
----
 
-## ⚡ Fun Fact
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.odoo.com" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/BSicon_lDST_fuchsia.svg" alt="Odoo" width="40" height="40"/> 
+  </a>
+  <a href="https://github.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+</p>
 
-> Siempre tengo un terminal abierto, incluso cuando no lo necesito 😄
+<h3 align="left">GitHub Stats:</h3>
 
+![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonypiguave&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonypiguave&layout=compact&theme=radical)
+
+
+![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
