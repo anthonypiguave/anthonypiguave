@@ -8,6 +8,10 @@ Soy un desarrollador apasionado por la tecnología, la automatización y la crea
   <a href="https://www.github.com" target="blank"><img align="center" src="https://odoocdn.com/openerp_website/static/src/img/2016/partners/ODOO15CERT.png" width="120" alt="anthonypiguave"/></a>
   <a href="https://www.github.com" target="blank"><img align="center" src="https://odoocdn.com/openerp_website/static/src/img/2016/partners/ODOO18CERT.png" width="120" alt="anthonypiguave"/></a>
 </p>
+## 📊 GitHub Stats
+
+![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonypiguave&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonypiguave&layout=compact&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display: inline-flex; gap: 150px; align-items: center;">
