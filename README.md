@@ -9,9 +9,7 @@ Tengo experiencia trabajando con varias versiones de Odoo, adaptando soluciones 
 | Versión de Odoo |
 |-----------------|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/BSicon_lDST_fuchsia.svg" width="16"/> Odoo 12  | 
-| <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/BSicon_lDST_fuchsia.svg" width="16"/> Odoo 13  |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/BSicon_lDST_fuchsia.svg" width="16"/> Odoo 15  | 
-| <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/BSicon_lDST_fuchsia.svg" width="16"/> Odoo 17  | 
 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/BSicon_lDST_fuchsia.svg" width="16"/> Odoo 18  | 
 
 
